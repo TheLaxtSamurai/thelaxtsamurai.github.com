@@ -4,18 +4,18 @@ highlighter: pygments
 
 # Permalinks
 permalink: /posts/:title
-timezone: America/Sao_Paulo
+timezone: America/Bogota
 
 # Setup
-title: Carlos Becker
+title: Federico Garcia
 tagline: ''
-description: 'Software development and related stuff, by Carlos A. Becker'
-url: http://carlosbecker.com
-tracking_code: 'UA-50435491-1'
+description: 'Ideas and stories of a journeyman'
+url: http://federicogarcia.me
+tracking_code: ''
 
 author:
-  name: 'Carlos Alexandro Becker'
-  url: https://twitter.com/caarlos0
+  name: 'Federico Garcia'
+  url: https://twitter.com/thelaxtsamurai
 
 exclude:
   - Gemfile
@@ -34,5 +34,4 @@ sass:
 paginate: 10
 
 # Custom vars
-disqus_shortname: caarlos0blog
-
+disqus_shortname: thelaxtsamurai
