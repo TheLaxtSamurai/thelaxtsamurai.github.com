@@ -5,13 +5,13 @@ redirect_from:
   - /about/
 ---
 
-Carlos is a developer from
+Federico is a developer from
 [Marechal Cândido Rondon - PR, Brazil](http://goo.gl/maps/9HZwe),
-and is currently a senior software engineer at
-[ContaAzul](http://contaazul.com), probably the most awesome startup in Brazil.
+and is currently a senior software architect at
+[CE Broker](https://www.cebroker.com).
 
 <div class="github-cards">
-  <div class="github-card" data-github="caarlos0"></div>
+  <div class="github-card" data-github="thelaxtsamurai"></div>
 </div>
 
 When not working, he's [blogging](http://carlosbecker.com),
@@ -33,6 +33,6 @@ team.
 
 [glads]: http://www.joinvillegladiators.com.br
 
-Wanna talk about something? Send him an [email](mailto:caarlos+blog@gmail.com).
+Wanna talk about something? Send him an [email](mailto:federico.v.garcia@gmail.com).
 
 <script src="http://lab.lepture.com/github-cards/widget.js"></script>
