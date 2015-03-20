@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 Federico is a developer from
-[Marechal Cândido Rondon - PR, Brazil](http://goo.gl/maps/9HZwe),
+[Cartagena, Colombia](http://goo.gl/maps/9HZwe),
 and is currently a senior software architect at
 [CE Broker](https://www.cebroker.com).
 
