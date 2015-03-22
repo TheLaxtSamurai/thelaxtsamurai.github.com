@@ -16,6 +16,7 @@ tracking_code: ''
 author:
   name: 'Federico Garcia'
   url: https://twitter.com/thelaxtsamurai
+  twitter: thelaxtsamurai
 
 exclude:
   - Gemfile
@@ -31,7 +32,7 @@ sass:
   sass_dir: _scss
   style: :compressed
 
-paginate: 10
+paginate: 5
 
 # Custom vars
 disqus_shortname: thelaxtsamurai
