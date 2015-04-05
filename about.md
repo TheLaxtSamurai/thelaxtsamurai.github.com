@@ -5,7 +5,7 @@ redirect_from:
   - /about/
 ---
 
-I'm a developer from
+I'm a software engineer from
 [Cartagena, Colombia](http://goo.gl/mjkNI9),
 and currently a senior software architect at
 [CE Broker](https://www.cebroker.com).
